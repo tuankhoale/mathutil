@@ -8,6 +8,9 @@
 * A demonstration of using CI (Continuous Integration) with GitHub Actions 
 * ...
 
+## Screenshots
+### TDD, DDT test script with JUNit
+![TDD DDT test script](https://github.com/tuankhoale/mathutil/blob/main/screenshots/TDD_DDT%20withJUnit.png)
 
 ### Connect me via: khoa27052005@gmail.com
 
